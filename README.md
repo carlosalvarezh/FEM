@@ -1,2 +1,2 @@
 # FEM
-Curso Método Elementos Finitos con aplicaciones en programación en Python
+Curso Método Elementos Finitos presentando una aproximación al análisis estático lineal, con aplicaciones en programación en Python
